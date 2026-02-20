@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+int room_length;
+int room_width;
+printf("enter length of room");
+scanf("%d", room_length);
+printf("enter width of room");
+scanf("%d", room_width);
